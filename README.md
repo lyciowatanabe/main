@@ -1,4 +1,4 @@
-# Hi there, I'm Lycio Shinji Watanabe 👋
+# Hi, I'm Lycio Shinji Watanabe 👋
 
 **Ph.D. in Analytical Chemistry** specializing in the intersection of **Complex Matrix Science, Chemometrics, and Applied Computing**. My professional and academic work focuses on developing innovative technological solutions, laboratory automation, analytical instrumentation, and **digital image analysis/processing using Artificial Intelligence (Deep Learning)**.
 
