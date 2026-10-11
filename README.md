@@ -6,7 +6,7 @@
 
 ### 🎓 Academic Background
 
-- 🎓 **Ph.D. in Analytical Chemistry** – UEPG / UNICENTRO / UEL Joint Program
+- 🎓 **Ph.D. in Analytical Chemistry** – State University of Londrina (UEL)
 - 🎓 **M.Sc. in Analytical Chemistry** – State University of Londrina (UEL)
 - 🎓 **B.Sc. in Chemistry (Licentiate Degree)** – São Paulo State University (UNESP)
 
